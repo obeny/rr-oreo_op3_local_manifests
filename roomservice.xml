@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- DEVICE -->
-  <project name="device_oneplus_oneplus3" path="device/oneplus/oneplus3" remote="rr-devices" revision="oreo" />
+  <project name="obeny/device_oneplus_oneplus3" path="device/oneplus/oneplus3" remote="github" revision="oreo" />
   <project name="android_device_oppo_common" path="device/oppo/common" remote="rr-devices" revision="oreo" />
 
   <!-- LOS DEPENDENCIES -->
