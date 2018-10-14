@@ -12,5 +12,5 @@
   <project name="MSF-Jarvis/oneplus3" path="kernel/oneplus/msm8996" remote="github" revision="XOS-8.1" />
 
   <!-- BLOBS -->
-  <project name="obeny/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-15.1" />
+  <project name="obeny/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="oreo-5.0.6" />
 </manifest>
