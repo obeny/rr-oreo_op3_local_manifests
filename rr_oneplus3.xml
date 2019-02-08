@@ -10,7 +10,4 @@
   <remove-project name="platform/prebuilts/gdb/darwin-x86" />
   <remove-project name="platform/prebuilts/go/darwin-x86" />
   <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
-
-  <!-- SDCLANG -->
-  <!-- <project name="hyperUnicorns/sdclang-4.0" path="prebuilts/snapdragon-llvm/toolchains/llvm-Snapdragon_LLVM_for_Android_4.0/prebuilt/linux-x86_64" remote="github" revision="master" /> -->
 </manifest>
