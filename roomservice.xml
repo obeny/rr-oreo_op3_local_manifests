@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="obeny/device_oneplus_oneplus3" path="device/oneplus/oneplus3" remote="github" revision="pie" />
-
   <remove-project name="android_vendor_resurrection" />
-  <project path="vendor/rr" name="obeny/android_vendor_resurrection" remote="github" revision="pie" />
+  <project name="obeny/android_vendor_resurrection" path="vendor/rr" remote="github" revision="pie" />
   <project name="LineageOS/android_device_oppo_common" path="device/oppo/common" remote="github" revision="lineage-16.0" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
   <project name="mady51/OmniPie" path="kernel/oneplus/msm8996" remote="github" revision="lineage-16.0" />
